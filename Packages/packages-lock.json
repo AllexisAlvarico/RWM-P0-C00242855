@@ -159,6 +159,18 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
+    "ie.itcarlow.cubefilter": {
+      "version": "file:ie.itcarlow.cubefilter",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "ie.itcarlow.reverse": {
+      "version": "file:ie.itcarlow.reverse",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
